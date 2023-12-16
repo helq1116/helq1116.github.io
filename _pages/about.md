@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Linqiang He, a Ph.D. student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/). 
+Hi, I am Linqiang He (helq@lasg.iap.ac.cn), a Ph.D. student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/). 
 
 My research primarily explores to understand the past monsoon climates, aiming to inform the future change. I utilize state-of-the-art climate models, proxy records, and physical diagnosis. I am also intersted in the application of machine learning methods in the climate research.
 
