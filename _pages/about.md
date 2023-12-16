@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Current
-=== b  
+===  
 
 *I am looking for a postdoc position in climate science.*
 
 
-Short Bio
+Short Bio 
 ===
 
 I am **Linqiang He (何林强)**, a PhD student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/), majoring in Meteoropogy. 
