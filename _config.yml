@@ -84,8 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Linqiang He"
-  avatar           : "academic50k.png"
-  bio              : "Be Positive!"
+  avatar           : "profile_photo.png"
+#  bio              : "Be Positive!"
   location         : "Beijing, China"
   employer         : "Institute of Atmospheric Physics, CAS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
