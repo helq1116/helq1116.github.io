@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaolong Jin"
+title                    : "Linqiang He"
 title_separator          : "-"
-name                     : &name "Xiaolong Jin"
+name                     : &name "Linqiang He"
 description              : &description "personal description"
-url                      : https://jinxiaolong1129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://helq1116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinxiaolong1129/Jinxiaolong1129.github.io"
+repository               : "helq1116/helq1116.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,16 +83,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaolong Jin"
+  name             : "Linqiang He"
   avatar           : "academic50k.png"
   bio              : "Be Positive!"
-  location         : "Hefei, China"
-  employer         : "USTC"
+  location         : "Beijing, China"
+  employer         : "Institute of Atmospheric Physics, CAS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  email            : "jinxiaolong1129@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "helq@lasg.iap.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Linqiang-He"
   uri              :  
   bitbucket        :
   codepen          :
@@ -100,20 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jinxiaolong1129"
+  #github           : "Jinxiaolong1129"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6759-6932"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JxlDragon"
+  # twitter          : "JxlDragon"
   vine             :
   weibo            :
   youtube          :
