@@ -9,23 +9,23 @@ redirect_from:
 ---
 
 Current
-===
+=== b  
 
-*I am looking for a Ph.D. position in machine learning.*
+*I am looking for a postdoc position in climate science.*
 
 
 Short Bio
 ===
 
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
+I am **Linqiang He (何林强)**, a PhD student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/), majoring in Meteoropogy. 
 
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
+My primary research interest is using past climates to understand the present and inform the future, especially the monsoon.
 
 
 Education
 ===
-* Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
+* Sept. 2019 --- June 2024: Ph.D. in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences (expected)
+* Sept. 2015 --- June 2019: B.S. in Atmospheric Science, Nanjing University of Information Science and Technology
 
 Honors and Awards
 ===
