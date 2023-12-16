@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-*I am looking for a postdoc position in climate science.*
+Hi, I am Linqiang He, a Ph.D. student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/). 
 
-I am **Linqiang He (何林强)**, a PhD student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/), majoring in Meteoropogy. 
+My research primarily explores to understand the past monsoon climates, aiming to inform the future change. I utilize state-of-the-art climate models, proxy records, and physical diagnosis. I am also intersted in the application of machine learning methods in the climate research.
 
-My primary research explores to understand the past monsoon climates, aiming to inform the future change. I utilize state-of-the-art climate models, proxy records, and physical diagnosis.
+*I will get my Ph.D. in  June 2024, and I am looking for a postdoc position in climate science.*
 
 <script>
 document.write("Last modifid at: "+document.lastModified+"" )
