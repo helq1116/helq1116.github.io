@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 
 In Review or Revision
-===
+==
 **He, L.**, Chen, X., et al. 2023. Common sources of model uncertainty in the mean-state of South Asian summer rainfall from CMIP3 to CMIP6. Journal of Climate. Under review.
 
 **He, L.**, Zhou, T., et al. 2023. Northward extension of East Asian summer monsoon since the Miocene driven by the Tibetan Plateau uplift. Geophys. Res. Lett. Under review.
