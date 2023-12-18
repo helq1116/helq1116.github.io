@@ -58,9 +58,11 @@ author_profile: true
 
 <div align=center> <img src="../images/Fig3_EC_extreme.png" alt="Fig1" width="70%" height="auto"> </div>
 
-• K-means clustering revealed five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
+• K-means clustering reveals five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
 
 • Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
+
+• There are significant rates of EPEs transfer from the YRB-type to SC-type (18%), HTA-type to YRB-type (16%), HTA-type to NC-type (22%), and NC-type to NEC-type (25%).
 
 
 <!--
