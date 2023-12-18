@@ -49,7 +49,7 @@ author_profile: true
 
 • The enhanced western North Pacific precipitation is resulted from low-level convergence, which acts as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
 
-• The suppressed precipitation in the tropics is caused by a remote effect of greener vegetation and a local effect of closed seaways.
+• The suppressed tropical precipitation is caused by a remote effect of greener vegetation and a local effect of closed seaways.
 
 
 
