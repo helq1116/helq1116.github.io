@@ -6,13 +6,11 @@ author_profile: true
 ---
 
 
-# Research interets
+# Research fields
 
 1. Monsoon simulation and evolution
 
-2. Extreme precipitation
-
-3. Air-sea interaction
+2. Extreme events
 
 ---
 
@@ -65,7 +63,7 @@ author_profile: true
 • Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
 
 
-
+<!--
 # Projects
 
 ## 1. Evaluate the model performance of the present monsoon
@@ -79,3 +77,5 @@ Based on model simulations and physical diagnoses, we find (1) the seasonal marc
 
 ## 4. Extreme precipitation
 Based on objective clustering, we identify the changes in regional extreme precipitation events over eastern China subregions from intraseasonal timescale to long-term trends (He et al. 2021). Based on model simulations, optimal fingerprinting and physical diagnosis, we elucidate the anthropogenic impacts on the precipitation changes across all intensities over the Tibetan Plateau (He et al. 2023, under review). 
+-->
+
