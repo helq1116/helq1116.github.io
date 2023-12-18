@@ -22,7 +22,9 @@ author_profile: true
 <!--
 ![Fig1](../images/Fig_nothward_EASM.jpg)
 -->
-<img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="50%" height="auto">
+<div style="text-align:center;">
+  <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto">
+</div>
 
 • The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 
