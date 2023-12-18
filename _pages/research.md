@@ -20,9 +20,9 @@ author_profile: true
 ## 1. Northward extension of East Asian monsoon climate in the geological history
 
 <!--
-![Fig1](../images/Fig_nothward_EASM.jpg)
+![Fig1](../images/Fig_nothward_EASM.jpg)  #默认位置
 
-<div align=center> <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto"> </div>
+<div align=center> <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto"> </div> #居中位置
 -->
 
 <img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto">
@@ -38,9 +38,10 @@ author_profile: true
 
 <!--
 ![Fig1](../images/Fig_earlier_EASM.png)
+<div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 -->
 
-<div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
+<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig1" width="65%" height="auto">
 
 • The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
