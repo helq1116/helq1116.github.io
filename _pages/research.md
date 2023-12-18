@@ -21,7 +21,7 @@ author_profile: true
 
 <!--
 ![Fig1](../images/Fig_nothward_EASM.jpg)
->
+-->
 <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="50%" height="auto">
 
 • The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
@@ -35,7 +35,8 @@ author_profile: true
 
 <!--
 ![Fig1](../images/Fig_earlier_EASM.png)
->
+-->
+
 <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto">
 
 • The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
