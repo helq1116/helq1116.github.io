@@ -19,7 +19,9 @@ author_profile: true
 
 ## 1. Northward extension of East Asian monsoon climate in the geological history
 
-#![Fig1](../images/Fig_nothward_EASM.jpg)
+<!--
+![Fig1](../images/Fig_nothward_EASM.jpg)
+>
 <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="50%" height="auto">
 
 • The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
@@ -31,7 +33,9 @@ author_profile: true
 
 ## 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
 
-#![Fig1](../images/Fig_earlier_EASM.png)
+<!--
+![Fig1](../images/Fig_earlier_EASM.png)
+>
 <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto">
 
 • The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
