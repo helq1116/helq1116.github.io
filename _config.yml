@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "Linqiang He"
   avatar           : "Profile_photo_3.png"
-  #bio              : "Be Positive!"
+  bio              : "Be Positive!"
   location         : "Beijing, China"
   employer         : "IAP, CAS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  #email            : "helq@lasg.iap.ac.cn"
+  email            : "helq@lasg.iap.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Linqiang-He"
   uri              :  
   bitbucket        :
