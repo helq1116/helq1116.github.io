@@ -27,12 +27,11 @@ author_profile: true
 
 <img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto">
 
-• By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find that 
-the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
+• By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find that the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 
-• Orography forcing of the uplift of Tibetan Plateau drove the emergence of monsoon seasonal march, which was determined by Rossby wave responses from early summer to late summer caused by the weakening of westerly jet colliding with the Tibetan Plateau.
+• The emergence of monsoon seasonal march was driven by Rossby wave responses from early summer to late summer, caused by the weakening of westerly jet colliding with the Tibetan Plateau.
 
-• The emergence of seasonal march pushed the East Asian monsoon climate northward to the modern boundary.
+• The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the East Asian monsoon climate northward to the modern boundary.
 
 
 ## 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
