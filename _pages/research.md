@@ -41,15 +41,15 @@ author_profile: true
 <div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 -->
 
-<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="50%" height="auto">
+<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" margin=0.5rem width="50%" height="auto">
 
 • Based on CMIP6 simulations, the seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
 • The earlier seasonal march is accompanied by a northward shift of monsoon rainfall and circulation in July, triggered by excessive convections over the western North Pacific through the PJ pattern-like teleconnection.
 
-• The enhanced western North Pacific precipitation is resulted from low-level convergence, which acts as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
+• The enhanced western North Pacific rainfall is resulted from low-level convergence, which acts as an atmospheric Kelvin wave response to the suppressed rainfall in tropics.
 
-• The suppressed tropical precipitation is caused by a remote effect of greener vegetation and a local effect of closed seaways.
+• The suppressed tropical rainfall is caused by a remote effect of greener vegetation and a local effect of closed seaways.
 
 
 
