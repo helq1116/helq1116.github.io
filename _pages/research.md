@@ -27,9 +27,9 @@ author_profile: true
 
 <img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto">
 
-• By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find that the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
+• By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 
-• The emergence of monsoon seasonal march was driven by Rossby wave responses from early summer to late summer, caused by the weakening of westerly jet colliding with the Tibetan Plateau.
+• The emergence of seasonal march was driven by Rossby wave responses from early summer to late summer, caused by the weakening of westerly jet colliding with the Tibetan Plateau.
 
 • The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the East Asian monsoon climate northward to the modern boundary.
 
@@ -41,15 +41,15 @@ author_profile: true
 <div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 -->
 
-<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig1" width="50%" height="auto">
+<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="50%" height="auto">
 
-• The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
+• Based on CMIP6 simulations, the seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
-• The advanced monsoon seasonal march features a northward shift of monsoon rainfall and circulation in July, associated with excessive convections over the western North Pacific through the Pacific-Japan (East Asia-Pacific) pattern-like teleconnection.
+• The earlier seasonal march is accompanied by a northward shift of monsoon rainfall and circulation in July, triggered by excessive convections over the western North Pacific through the PJ pattern-like teleconnection.
 
-• The enhanced precipitation over the western North Pacific is resulted from low-level convergence as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
+• The enhanced western North Pacific precipitation is resulted from low-level convergence, which acts as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
 
-• The enhanced precipitation over the western North Pacific is resulted from low-level convergence as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
+• The suppressed precipitation in the tropics is caused by a remote effect of greener vegetation and a local effect of closed seaways.
 
 
 
