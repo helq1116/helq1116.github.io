@@ -25,7 +25,8 @@ author_profile: true
 <div align=center> <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto"> </div>
 -->
 
-<img aligh="right" src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto">
+<img aligh="right" src="../images/Fig_nothward_EASM.jpg"/ alt="Fig1" width="65%" height="auto">
+
 • The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 
 • Orography forcing of the uplift of Tibetan Plateau determined the emergence of monsoon seasonal march.
