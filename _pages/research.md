@@ -20,7 +20,7 @@ author_profile: true
 # Research highlights
 ##1. Northward extension of East Asian monsoon climate in the geological history
 
-(../images/Fig_northward_EASM.jpg)
+![Fig1](../images/Fig_northward_EASM.jpg)
 
 ·	The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 ·	Orography forcing of the uplift of Tibetan Plateau determined the emergence of monsoon seasonal march.
