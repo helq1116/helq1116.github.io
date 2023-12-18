@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-In Review or Revision
-==
+## In Review or Revision
+
 **He, L.**, Chen, X., et al. 2023. Common sources of model uncertainty in the mean-state of South Asian summer rainfall from CMIP3 to CMIP6. Journal of Climate. Under review.
 
 **He, L.**, Zhou, T., et al. 2023. Northward extension of East Asian summer monsoon since the Miocene driven by the Tibetan Plateau uplift. Geophys. Res. Lett. Under review.
@@ -17,15 +17,15 @@ In Review or Revision
 Yu, H., Zhou, T., **He, L.**. 2023. Indian summer monsoon precipitation dominates the reproduction of Circumglobal teleconnection pattern: A comparison of CMIP5 and CMIP6 models. Journal of Climate. Under review.
 
 
-Submitted or to be submitted
-==
+## Submitted or to be submitted
+
 **He, L.**, Zhou, T., et al. 2023. Orographically forced spring persistent rains emerge in East Asia but disappear in North America. Submitted.
 
 **He, L.**, Zhou, T., et al. 2023. Anthropogenic influence on precipitation changes across all intensities over the Tibetan Plateau. To be submitted.
 
 
-Published
-===
+## Published
+
 **He, L.**, Hao, X., et al. 2021. How Do Extreme Summer Precipitation Events Over Eastern China Subregions Change? Geophys. Res. Lett., 48. [https://doi.org/10.1029/2020GL091849](https://doi.org/10.1029/2020GL091849).
 
 **He, L.**, Hao, X., et al. 2021. The asymmetric impacts of ENSO modoki on boreal winter climate over the Pacific and its rim. Clim. Dyn., 56, 29–44. [https://doi.org/10.1007/s00382-020-05395-z](https://doi.org/10.1007/s00382-020-05395-z).
