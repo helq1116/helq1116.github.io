@@ -17,20 +17,35 @@ author_profile: true
 ---
 
 
-# Research highlights
-##1. Northward extension of East Asian monsoon climate in the geological history
+## 1. Northward extension of East Asian monsoon climate in the geological history
 
 ![Fig1](../images/Fig_nothward_EASM.jpg)
 
-·	The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
-·	Orography forcing of the uplift of Tibetan Plateau determined the emergence of monsoon seasonal march.
-·	The emergence of seasonal march pushed the East Asian monsoon climate northward to the modern boundary.
+• The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
+
+• Orography forcing of the uplift of Tibetan Plateau determined the emergence of monsoon seasonal march.
+
+• The emergence of seasonal march pushed the East Asian monsoon climate northward to the modern boundary.
+
+
+## 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
+
+![Fig1](../images/Fig_earlier_EASM.png)
+
+• The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
+
+• The advanced monsoon seasonal march features a northward shift of monsoon rainfall and circulation in July, associated with excessive convections over the western North Pacific through the Pacific-Japan (East Asia-Pacific) pattern-like teleconnection.
+
+• The enhanced precipitation over the western North Pacific is resulted from low-level convergence as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
+
+• The enhanced precipitation over the western North Pacific is resulted from low-level convergence as an atmospheric Kelvin wave response to the suppressed precipitation in the tropics.
 
 
 
-##3. Multi-timescale changes in extreme precipitation over eastern China
-·	K-means clustering revealed five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
-·	Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
+## 3. Multi-timescale changes in extreme precipitation over eastern China
+• K-means clustering revealed five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
+
+• Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
 
 
 
