@@ -33,7 +33,7 @@ author_profile: true
 
 • The emergence of seasonal march was driven by Rossby wave responses from early summer to late summer, caused by the weakening of westerly jet colliding with the Tibetan Plateau.
 
-• The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the East Asian monsoon climate northward to the modern boundary.
+• The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the monsoon climate northward to the modern boundary.
 
 
 ## 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
