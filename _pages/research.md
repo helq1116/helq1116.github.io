@@ -41,7 +41,7 @@ author_profile: true
 <div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 -->
 
-<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="50%" height="auto">
+<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="70%" height="auto">
 
 • Based on CMIP6 simulations, the seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
