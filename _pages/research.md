@@ -38,7 +38,7 @@ author_profile: true
 ![Fig1](../images/Fig_earlier_EASM.png)
 -->
 
-<img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto">
+<div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 
 • The seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
