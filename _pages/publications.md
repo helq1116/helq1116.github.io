@@ -20,13 +20,13 @@ Yu, H., Zhou, T., **He, L.**. 2023. Indian summer monsoon precipitation dominate
 
 Published
 ===
-**He, L.**, Hao, X., et al. 2021. How Do Extreme Summer Precipitation Events Over Eastern China Subregions Change? Geophys. Res. Lett., 48.https://doi.org/10.1029/2020GL091849.
+**He, L.**, Hao, X., et al. 2021. How Do Extreme Summer Precipitation Events Over Eastern China Subregions Change? Geophys. Res. Lett., 48. [https://doi.org/10.1029/2020GL091849].
 
-**He, L.**, Hao, X., et al. 2021. The asymmetric impacts of ENSO modoki on boreal winter climate over the Pacific and its rim. Clim. Dyn., 56, 29–44. https://doi.org/10.1007/s00382-020-05395-z.
+**He, L.**, Hao, X., et al. 2021. The asymmetric impacts of ENSO modoki on boreal winter climate over the Pacific and its rim. Clim. Dyn., 56, 29–44. [https://doi.org/10.1007/s00382-020-05395-z].
 
-**He, L.**, Zhou, T., et al. 2022. South Asian summer rainfall from CMIP3 to CMIP6 models: biases and improvements. Clim. Dyn. https://doi.org/10.1007/s00382-022-06542-4.
+**He, L.**, Zhou, T., et al. 2022. South Asian summer rainfall from CMIP3 to CMIP6 models: biases and improvements. Clim. Dyn. [https://doi.org/10.1007/s00382-022-06542-4].
 
-Z. Deng, S. Zhou, M. Wang, **He, L.**, Y. Qing. 2023. Variations in Summer Surface Air Temperature Over the Eastern Tibetan Plateau: Connection With Barents-Kara Spring Sea Ice and Summer Arctic Oscillation. J Geophys Res Atmos. https://doi:10.1029/2023JD039765.
+Z. Deng, S. Zhou, M. Wang, **He, L.**, Y. Qing. 2023. Variations in Summer Surface Air Temperature Over the Eastern Tibetan Plateau: Connection With Barents-Kara Spring Sea Ice and Summer Arctic Oscillation. J Geophys Res Atmos. [https://doi:10.1029/2023JD039765].
 
 
 
