@@ -9,16 +9,20 @@ redirect_from:
 ---
 
 
-**About me**
-Welcome to my homepage! I am Linqiang He (helq@lasg.iap.ac.cn), a Ph.D. student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/). 
-
-Over the past three years, my research have focused on the simulation and evolution of the monsoon. By integrating proxy records, climate simulations, and physical diagnoses, I investigate the formation of modern monsoon and the indication of past warm periods for the future change. I was also involved in the research of ENSO climate impacts and extreme precipitation changes in the early stage of my Ph.D.. 
-
-Overall, I have strong backgrounds in paleoclimate, climate dynamics, and model simulation. And I am also intersted in the application of machine learning methods in the climate research.
-
-
-**News**
+News
+===
 *I will get my Ph.D. in  June 2024, and I am looking for a postdoc position in climate science.*
+
+
+Background
+===
+
+Welcome! I am Linqiang He, a Ph.D. student at the [Institute of Atmospheric Physics, Chinese Academy of Sciences](http://english.iap.cas.cn/). 
+
+Over the past three years, my research has focused on the simulation and evolution of monsoon climate. By integrating proxy records, climate simulations and physical diagnoses, I aim to understand the underlying mechanisms of the present climate from the perspective of past climate evolution, and to provide potential analogs for future climate change. In the early stages of my PhD, I am also involved in research on the climate impacts of ENSO and changes in extreme precipitation. 
+
+Overall, I have a strong background in palaeoclimate, climate dynamics and model simulation. I am also interested in the application of machine learning methods to climate research.
+
 
 <script>
 document.write("Last modifid at: "+document.lastModified+"" )
