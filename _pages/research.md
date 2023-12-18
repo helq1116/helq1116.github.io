@@ -34,7 +34,7 @@ author_profile: true
 • The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the monsoon climate northward to the modern boundary.
 
 
-## 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
+### 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
 
 <!--
 ![Fig1](../images/Fig_earlier_EASM.png)
@@ -54,7 +54,7 @@ author_profile: true
 
 
 
-## 3. Multi-timescale changes in extreme precipitation over eastern China
+### 3. Multi-timescale changes in extreme precipitation over eastern China
 
 <div align=center> <img src="../images/Fig3_EC_extreme.png" alt="Fig1" width="70%" height="auto"> </div>
 
