@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## News
 
 *I will get my Ph.D. in  June 2024, and I am looking for a postdoc position in climate science.*
