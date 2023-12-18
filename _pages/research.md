@@ -12,10 +12,10 @@ author_profile: true
 
 2. Extreme events
 
----
 
 
-## 1. Northward extension of East Asian monsoon climate in the geological history
+## Research highlights
+### 1. Northward extension of East Asian monsoon climate in the geological history
 
 <!--
 ![Fig1](../images/Fig_nothward_EASM.jpg)  #默认位置
