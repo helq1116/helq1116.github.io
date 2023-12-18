@@ -16,6 +16,24 @@ author_profile: true
 
 ---
 
+
+# Research highlights
+##1. Northward extension of East Asian monsoon climate in the geological history
+
+(../images/Fig_northward_EASM.jpg)
+
+·	The seasonal march of East Asian summer monsoon emerged no later than the Miocene.
+·	Orography forcing of the uplift of Tibetan Plateau determined the emergence of monsoon seasonal march.
+·	The emergence of seasonal march pushed the East Asian monsoon climate northward to the modern boundary.
+
+
+
+##3. Multi-timescale changes in extreme precipitation over eastern China
+·	K-means clustering revealed five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
+·	Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
+
+
+
 # Projects
 
 ## 1. Evaluate the model performance of the present monsoon
