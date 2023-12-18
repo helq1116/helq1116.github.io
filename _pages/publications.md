@@ -14,9 +14,15 @@ In Review or Revision
 
 **He, L.**, Zhou, T., et al. 2023. Earlier seasonal march of the East Asian summer monsoon in the mid-Pliocene. Journal of Climate. Under review.
 
+Yu, H., Zhou, T., **He, L.**. 2023. Indian summer monsoon precipitation dominates the reproduction of Circumglobal teleconnection pattern: A comparison of CMIP5 and CMIP6 models. Journal of Climate. Under review.
+
+
+Submitted or to be submitted
+==
 **He, L.**, Zhou, T., et al. 2023. Orographically forced spring persistent rains emerge in East Asia but disappear in North America. Submitted.
 
-Yu, H., Zhou, T., **He, L.**. 2023. Indian summer monsoon precipitation dominates the reproduction of Circumglobal teleconnection pattern: A comparison of CMIP5 and CMIP6 models. Journal of Climate. Under review.
+**He, L.**, Zhou, T., et al. 2023. Anthropogenic influence on precipitation changes across all intensities over the Tibetan Plateau. To be submitted.
+
 
 Published
 ===
@@ -26,7 +32,7 @@ Published
 
 **He, L.**, Zhou, T., et al. 2022. South Asian summer rainfall from CMIP3 to CMIP6 models: biases and improvements. Clim. Dyn. [https://doi.org/10.1007/s00382-022-06542-4](https://doi.org/10.1007/s00382-022-06542-4).
 
-Z. Deng, S. Zhou, M. Wang, **He, L.**, Y. Qing. 2023. Variations in Summer Surface Air Temperature Over the Eastern Tibetan Plateau: Connection With Barents-Kara Spring Sea Ice and Summer Arctic Oscillation. J Geophys Res Atmos. [https://doi:10.1029/2023JD039765](https://doi:10.1029/2023JD039765).
+Z. Deng, S. Zhou, M. Wang, **He, L.**, Y. Qing. 2023. Variations in Summer Surface Air Temperature Over the Eastern Tibetan Plateau: Connection With Barents-Kara Spring Sea Ice and Summer Arctic Oscillation. J Geophys Res Atmos. [https://doi.org/10.1029/2023JD039765](https://doi.org/10.1029/2023JD039765).
 
 
 
