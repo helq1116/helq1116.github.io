@@ -41,7 +41,7 @@ author_profile: true
 <div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="50%" height="auto"> </div>
 -->
 
-<img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="70%" height="auto">
+<img align="center" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="60%" height="auto">
 
 • Based on CMIP6 simulations, the seasonal march of East Asian summer monsoon in the mid-Pliocene is about two weeks earlier than today.
 
@@ -55,7 +55,7 @@ author_profile: true
 
 ## 3. Multi-timescale changes in extreme precipitation over eastern China
 
-<div align=center> <img src="../images/Fig3_EC_extreme.png" alt="Fig1" width="50%" height="auto"> </div>
+<div align=center> <img src="../images/Fig3_EC_extreme.png" alt="Fig1" width="70%" height="auto"> </div>
 
 • K-means clustering revealed five distinct types of extreme precipitation events developed over eastern China from 1961 to 2018.
 
