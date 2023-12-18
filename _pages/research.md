@@ -25,7 +25,7 @@ author_profile: true
 <img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto"> #图形靠左，右侧是文字
 -->
 
-<div align=center> <img src="../images/Fig_nothward_EASM.jpg" alt="Fig1" width="65%" height="auto"> </div>
+<img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto">
 
 • By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
 
@@ -38,7 +38,7 @@ author_profile: true
 
 <!--
 ![Fig1](../images/Fig_earlier_EASM.png)
-
+<div align=center> <img src="../images/Fig_earlier_EASM.png" alt="Fig1" width="60%" height="auto"> </div>
 <img align="left" src="../images/Fig_earlier_EASM.png"  alt="Fig2" width="60%" height="auto">
 -->
 
