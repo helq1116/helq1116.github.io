@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Linqiang He"
   avatar           : "Profile_photo_3.png"
-  bio              : "Be Positive!"
+  bio              : "IAP, CAS"
   location         : "Beijing, China"
-  employer         : "IAP, CAS"
+  #employer         : "IAP, CAS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
