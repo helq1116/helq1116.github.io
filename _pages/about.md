@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 
-News
-===
+## News
+
 *I will get my Ph.D. in  June 2024, and I am looking for a postdoc position in climate science.*
 
 
-About me
-===
+## About me
 
-Welcome! I am Linqiang He, a Ph.D. student at the Institute of Atmospheric Physics, Chinese Academy of Sciences. 
+Welcome:blush:! I am Linqiang He, a Ph.D. student at the Institute of Atmospheric Physics, Chinese Academy of Sciences. 
 
 Over the past three years, my research has focused on the simulation and evolution of monsoon climate. By integrating proxy records, climate simulations and physical diagnoses, I aim to understand the underlying mechanisms of the present climate from the perspective of past climate evolution, and to provide potential analogs for future climate change. In the early stages of my PhD, I am also involved in research on the climate impacts of ENSO and changes in extreme precipitation. 
 
