@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-## Research fields
+## Research fields & interests
 
-1. Monsoon simulation and evolution
+1. Monsoon simulation and evolution, extreme events
 
-2. Extreme events
+2. Machine learning in climate science
 
 
 
