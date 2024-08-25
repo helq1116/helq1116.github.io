@@ -7,15 +7,15 @@ author_profile: true
 
 ## Published
 
-**He, L.**, Zhou, T., et al. 2024. Earlier seasonal march of the East Asian summer monsoon in the mid-Pliocene. J. Climate.[https://doi.org/10.1175/JCLI-D-23-0709.1](https://doi.org/10.1175/JCLI-D-23-0709.1) 
+**He, L.**, Zhou, T., et al. 2024. Earlier seasonal march of the East Asian summer monsoon in the mid-Pliocene. J. Climate. [https://doi.org/10.1175/JCLI-D-23-0709.1](https://doi.org/10.1175/JCLI-D-23-0709.1) 
 
-**He, L.**, Zhou, T., et al. 2024. Northward extension of East Asian summer monsoon since the Miocene driven by the Tibetan Plateau uplift. Geophys. Res. Lett.[https://doi.org/10.1029/2023GL107262](https://doi.org/10.1029/2023GL107262).
+**He, L.**, Zhou, T., et al. 2024. Northward extension of East Asian summer monsoon since the Miocene driven by the Tibetan Plateau uplift.  Geophys. Res. Lett.[https://doi.org/10.1029/2023GL107262](https://doi.org/10.1029/2023GL107262).
 
 **He, L.**, Zhou, T., et al. 2022. South Asian summer rainfall from CMIP3 to CMIP6 models: biases and improvements. Clim. Dyn. [https://doi.org/10.1007/s00382-022-06542-4](https://doi.org/10.1007/s00382-022-06542-4).
 
-**He, L.**, Hao, X., et al. 2021. How Do Extreme Summer Precipitation Events Over Eastern China Subregions Change? Geophys. Res. Lett.[https://doi.org/10.1029/2020GL091849](https://doi.org/10.1029/2020GL091849).
+**He, L.**, Hao, X., et al. 2021. How Do Extreme Summer Precipitation Events Over Eastern China Subregions Change? Geophys. Res. Lett. [https://doi.org/10.1029/2020GL091849](https://doi.org/10.1029/2020GL091849).
 
-**He, L.**, Hao, X., et al. 2021. The asymmetric impacts of ENSO modoki on boreal winter climate over the Pacific and its rim. Clim. Dyn.[https://doi.org/10.1007/s00382-020-05395-z](https://doi.org/10.1007/s00382-020-05395-z).
+**He, L.**, Hao, X., et al. 2021. The asymmetric impacts of ENSO modoki on boreal winter climate over the Pacific and its rim. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05395-z](https://doi.org/10.1007/s00382-020-05395-z).
 
 
 ## Collaborative
