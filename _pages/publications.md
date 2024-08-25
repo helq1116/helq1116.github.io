@@ -22,7 +22,7 @@ author_profile: true
 
 Yu, H., Zhou, T., **He, L.**. 2024. Indian summer monsoon precipitation dominates the reproduction of Circumglobal teleconnection pattern: A comparison of CMIP5 and CMIP6 models. J. Climate. [https://doi.org/10.1175/JCLI-D-23-0644.1](https://doi.org/10.1175/JCLI-D-23-0644.1)
 
-Chen, Z., Zhou, T., Chen, X., Zhang, L., Qian, Y., Wang, Z., **He, L.**, L. RUBY, L. 2024. Understanding the biases in global monsoon simulations from the perspective of atmospheric energy transport. J. Climate. [https://10.1175/jcli-d-23-0444.1](https://10.1175/jcli-d-23-0444.1)
+Chen, Z., Zhou, T., Chen, X., Zhang, L., Qian, Y., Wang, Z., **He, L.**, L. RUBY, L. 2024. Understanding the biases in global monsoon simulations from the perspective of atmospheric energy transport. J. Climate. [https://doi.org/10.1175/jcli-d-23-0444.1](https://doi.org/10.1175/jcli-d-23-0444.1)
 
 Deng, D., Zhou, S., Wang, M., **He, L.**, Qing, Y. 2023. Variations in Summer Surface Air Temperature Over the Eastern Tibetan Plateau: Connection With Barents-Kara Spring Sea Ice and Summer Arctic Oscillation. J Geophys Res Atmos. [https://doi.org/10.1029/2023JD039765](https://doi.org/10.1029/2023JD039765).
 
