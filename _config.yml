@@ -1,112 +1,317 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
-theme: PaperMod
-enableInlineShortcodes: true
-enableRobotsTXT: true
-paginate: 20
 
 
-taxonomies:
-    tag: tags
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+#此配置文件用于影响整个站点的设置、值
+# which you are expected to set up once and rarely need to edit after that.
+#您应该设置一次，之后很少需要编辑。
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+#出于技术原因，此文件*NOT*在您使用时自动重新加载
+# `jekyll serve`. If you change this file, please restart the server process.
 
-menu:
-    main:
-        - name: Papers
-          url: /papers/
-          weight: 1
-        - name: Courses
-          url: /courses/
-          weight: 2
-        - name: Design
-          url: /design/
-          weight: 3        
-        - name: Tags
-          url: /tags/
-          weight: 4
-        - name: Archive
-          url: /archive/
-          weight: 5
+# Site Settings
+locale                   : "en-US"
+title                    : "Linqiang He"
+title_separator          : "-"
+name                     : &name "Linqiang He"
+description              : &description "personal description"
+url                      : https://helq1116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "helq1116/helq1116.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message','zhihu']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message', 'zhihu']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-params:
-    description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and contact information."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
-    images: ["cover.png"]
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: true
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["papers","courses","design"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an associate professor of economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists, why slack fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
-          imageUrl: "/picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Tags
-              url: /tags/
-            - name: Archive
-              url: /archive/
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
-    socialIcons:
-        - name: CV
-          url: /cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
+# Social Sharing
+twitter:
+  username               : &https://twitter.com/
+facebook:
+  username               : &https://www.facebook.com/
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: true
-        hiddenInSingle: true
-    label:
-      text: "Pascal Michaillat"
-      icon: /favicon.ico
-      iconHeight: 18
 
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: xcode 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 
-titleCaseStyle: 'none'
+
+# Site Author
+author:
+  name             : "Linqiang He"
+  avatar           : "Profile_photo_3.png"
+  bio              : "Beijing, China"
+  #location         : "http://english.iap.cas.cn/"
+  #employer         : "http://english.iap.cas.cn/"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
+  email            : "helq@lasg.iap.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Linqiang-He"
+  uri              :  
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  #github           : "Jinxiaolong1129"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6759-6932"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  # twitter          : "JxlDragon"
+  vine             :
+  weibo            :
+  youtube          :
+  wikipedia        :
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  使用 Liquid 构建的 GitHub Pages 兼容存档页面 ~> 类型：liquid（默认）
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
