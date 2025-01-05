@@ -15,11 +15,11 @@ redirect_from:
 
 ## About me
 
-Welcome! 😊  I am Linqiang He, a Postdoc in the Lamont-Doherty Earth Observatory at Columbia University.
+Welcome! I am Linqiang He, a Postdoctoral Researcher at the Lamont-Doherty Earth Observatory, Columbia University.
 
-My research focuses on the simulation and evolution of Earth's climate. By integrating proxy records, model simulations and physical diagnoses, I aim to understand the underlying mechanisms of the present climate from the perspective of past climate evolution, and to provide potential analogs for future climate change. In the early stages, I am also involved in research on the climate impacts of ENSO and changes in extreme precipitation. 
+My research focuses on the simulation and evolution of Earth's climate, with a recent emphasis on monsoon and Mediterranean climates. By integrating proxy records, model simulations, and physical diagnostics, my goal is to uncover the dynamics of past climate evolution and identify potential analogs for future climate change.
 
-Overall, I have a strong background in palaeoclimate, climate dynamics and model simulation. I am also interested in the application of machine learning methods to climate research.
+I am also deeply interested in applying machine learning techniques and paleoclimate data assimilation to climate research.
 
 
 <script>
