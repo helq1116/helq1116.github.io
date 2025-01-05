@@ -86,8 +86,9 @@ analytics:
 # Site Author
 author:
   name             : "Linqiang He"
-  avatar           : "Profile_photo_3.png"
+  # avatar           : "Profile_photo_3.png"
   # avatar           : "LH_Miami.JPG"
+  avatar           : "LH_Miami2.jpg"
   bio              : "Beijing, China"
   #location         : "http://english.iap.cas.cn/"
   #employer         : "http://english.iap.cas.cn/"
