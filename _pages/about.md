@@ -17,7 +17,6 @@ I am also deeply interested in applying machine learning techniques and paleocli
 
 
 ## News
-*------------*
 2025.01 A paper on Cenozoic spring climate evolution published in Communications Earth & Enviornment
 
 2024.12 A poster presentation on East Asian monsoon in the past and future warmer enivornments at AGU2024
