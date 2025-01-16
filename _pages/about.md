@@ -11,7 +11,7 @@ redirect_from:
 
 I am Linqiang He, a postdoctoral researcher at LDEO, Columbia University.
 
-My research explores the Earth's climate evolution, with a recent focus on monsoon and Mediterranean climates. By combining proxy records, model simulations, and physical diagnostics, I aim to uncover past climate dynamics and identify analogs for future climate change.
+My research explores the Earth's climate evolution, with a recent focus on monsoon and Mediterranean climates. By combining proxy records, model simulations, and physical diagnostics, I aim to uncover past climate dynamics and identify analogs for future change.
 
 I am also deeply interested in applying machine learning techniques and paleoclimate data assimilation to climate research.
 
