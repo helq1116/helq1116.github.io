@@ -14,7 +14,7 @@
 locale                   : "en-US"
 title                    : "Linqiang He"
 title_separator          : "-"
-name                     : &name "Linqiang He"
+name                     : &name "        Linqiang He"
 description              : &description "personal description"
 url                      : https://helq1116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
